@@ -39,7 +39,7 @@ const teamMembers = [
   },
   {
     name: "Akash Prasad",
-    role: "UI/UX Designer",
+    role: "Tester",
     image: "test.png",
     github: "https://github.com/Ak-pd32",
     linkedin: "https://www.linkedin.com/in/akashprasad-ap/",
